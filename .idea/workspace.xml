@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be635864-c169-4c6e-b868-85ebede23c5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/JdbcDAO1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/case1/ClientDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/case1/ClientDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/case1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/case2/AbstractDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/case2/ClientDAOImpl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/case2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/shared/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/shared/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/java/ua/kiev/prog/shared/Id.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/src/main/resources/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/case1/ClientDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/case1/ClientDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/case1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/case2/AbstractDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/case2/ClientDAOImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/case2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/shared/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/shared/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAO/JdbcDAO1/target/classes/ua/kiev/prog/shared/Id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/Flat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/FlatsDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/FlatsDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/Id.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/java/com/example/flat/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Flat/src/main/resources/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/src/main/java/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/src/main/java/MarketPlaceDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/src/main/java/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/Order/src/main/java/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/java/academy/prog/HappyUrlApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/java/academy/prog/UrlController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/java/academy/prog/UrlDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/java/academy/prog/UrlRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/java/academy/prog/UrlRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/java/academy/prog/UrlResultDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/java/academy/prog/UrlService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/java/academy/prog/UrlStatDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HappyURL/src/test/java/academy/prog/HappyUrlApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 2/taskTable/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork 2/taskTable/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/src/main/java/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/src/main/java/com/example/annotation/MethodAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/src/main/java/com/example/annotation/ParameterAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/src/main/java/com/example/info/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/src/main/java/com/example/info/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/src/main/java/com/example/info/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/annotation/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/src/main/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/target/classes/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/target/classes/Save.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 3/reflection/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/code.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork 4/exchangeRateMonoBank/src/main/java/org/example/rateApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/Bank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/bank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/src/main/java/bank/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/src/main/java/bank/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/src/main/java/bank/Currencies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/src/main/java/bank/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/src/main/java/bank/UahRate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/src/main/java/bank/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/target/classes/bank/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/target/classes/bank/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/target/classes/bank/Currencies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/target/classes/bank/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/target/classes/bank/UahRate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Bank/target/classes/bank/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/jpa1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/jpa1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/jpasample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/src/main/java/jpa1/Flat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/src/main/java/jpa1/FlatOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/src/main/java/jpa1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/target/classes/jpa1/Flat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/target/classes/jpa1/FlatOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Flats/target/classes/jpa1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/Menu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/menu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/src/main/java/menu/Dish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/src/main/java/menu/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/src/main/java/menu/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/target/classes/menu/Dish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/target/classes/menu/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/Menu/target/classes/menu/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/JavaProBot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/img/welcome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/BotCredentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/Controllers/webController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/JavaProBotApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/MySuperBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/webapp/WebApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/java/academy/prog/javaprobot/webapp/dto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/resources/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/resources/static/js/web.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/main/resources/telegram.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/src/test/java/academy/prog/javaprobot/JavaProBotApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/BotCredentials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/Controllers/webcontroller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/JavaProBotApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/MySuperBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/webapp/WebApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/academy/prog/javaprobot/webapp/dto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/static/js/web.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/classes/telegram.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProBot/target/test-classes/academy/prog/javaprobot/JavaProBotApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/SpringGeoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/configs/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/configs/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/controllers/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/controllers/RateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/dto/LocationDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/dto/PageCountDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/json/Rate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/json/SingleRate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/model/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/repo/LocationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/retrievers/GeoRetriever.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/retrievers/RateRetriever.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/services/LocationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/java/ua/kiev/prog/services/LocationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/resources/static/admin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/resources/static/css/geo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/resources/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/resources/static/js/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringTasks/src/main/resources/static/js/main.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P1XFEU3JjXz3eZgw4pVIxM4PGY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java School/JavaProjects/PRO/VO_HomeW_pro/1_Reflection",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be635864-c169-4c6e-b868-85ebede23c5b" name="Changes" comment="" />
+      <created>1682625456509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682625456509</updated>
+      <workItem from="1682625457871" duration="1355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
